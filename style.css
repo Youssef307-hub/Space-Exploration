@@ -1,0 +1,30 @@
+body{
+    font-family: 'Cairo Play', cursive;
+    margin: 0;
+    text-align: center;
+    color: #82a5ca;
+    font-weight: 500;
+}
+.logo{
+    width: 150px;
+}
+
+#hero{
+    background-image: url("images/galaxy.gif");
+    background-size: cover;
+    padding: 10px 0 30px 0;
+}
+.title {
+    text-shadow: 0px 0px 4px black;
+}
+.btn{
+    padding: 6px 12px;
+    font-family: inherit;
+    background: white;
+    border: none;
+    color: #82a5ca;
+    font-weight: 800;
+}
+.underline {
+    border-bottom: 4px solid white;
+}
